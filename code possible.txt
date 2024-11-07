@@ -1,0 +1,8 @@
+<html>
+    <a href="#"> <img src="cliente.jpg" width=250 height=200> </a>
+    <a href="#"> <img src="proovedor.png" width=250 height=200> </a>
+    <a href="#"> <img src="factura.jpg" width=250 height=200> </a>
+    <a href="#"> <img src="guia.png" width=250 height=200> </a>
+    <a href="#"> <img src="boleta.jpg" width=250 height=200> </a>
+    <a href="#"> <img src="producto2.jpg" width=250 height=200> </a>
+</html>
